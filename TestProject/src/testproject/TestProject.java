@@ -19,5 +19,8 @@ public class TestProject {
         System.out.println("Hello World");
         System.out.println("A good night for develop");
     }
+	public int  sumar(int a, int b){
+		return a+b;
+	}
     
 }
